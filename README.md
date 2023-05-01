@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img alt="sales-web-project-screen" src="_Apresentation/mainScreen.png" width="100%">
+  <img alt="sales-web-project-screen" src="_Apresentation/mainScreen.jpg" width="100%">
 </p>
 
 ## ✨ Tecnologias
